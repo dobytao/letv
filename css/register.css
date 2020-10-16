@@ -1,0 +1,208 @@
+body, p, ul, ol, li, dl, dt, dd, h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding: 0; }
+
+i, em {
+  font-style: normal; }
+
+strong {
+  font-weight: bold; }
+
+.clear:after {
+  content: '.';
+  clear: both;
+  height: 0;
+  visibility: hidden;
+  display: block; }
+
+img {
+  vertical-align: middle;
+  border: none; }
+
+a {
+  text-decoration: none;
+  color: #000; }
+
+ul, ol, li {
+  list-style: none; }
+
+body {
+  min-width: 1050px; }
+
+input {
+  outline: none;
+  border: none; }
+
+.login-box {
+  width: 1050px;
+  margin: 0 auto;
+  position: relative; }
+
+.username {
+  border: 1px solid #ccc;
+  width: 380px;
+  height: 44px;
+  position: relative;
+  margin-bottom: 20px; }
+
+.user {
+  margin-top: 7px;
+  margin-left: 7px;
+  color: #ccc; }
+
+.pass {
+  margin-top: 7px;
+  margin-left: 7px;
+  color: #ccc; }
+
+.password {
+  border: 1px solid #ccc;
+  width: 380px;
+  height: 44px;
+  position: relative;
+  margin-bottom: 13px; }
+
+.u-ipt {
+  height: 23px;
+  line-height: 23px;
+  border: none;
+  color: #333;
+  background: 0 0 !important;
+  position: absolute;
+  padding: 10px 0 10px;
+  top: 0;
+  width: 270px;
+  font-size: 14px;
+  zoom: 1;
+  margin-left: 7px; }
+
+.p-ipt {
+  height: 23px;
+  line-height: 23px;
+  border: none;
+  color: #333;
+  background: 0 0 !important;
+  position: absolute;
+  padding: 10px 0 10px;
+  top: 0;
+  width: 270px;
+  font-size: 14px;
+  zoom: 1;
+  margin-left: 7px; }
+
+.bottom {
+  width: 100%;
+  height: 483px;
+  position: relative;
+  background: url(../images/lg-bg.jpg) center no-repeat; }
+
+.bottom-box {
+  background-color: white;
+  width: 390px;
+  height: 420px;
+  margin-top: 12px;
+  padding: 20px;
+  position: absolute;
+  right: 200px;
+  top: 0px; }
+
+.bb-p {
+  margin-bottom: 20px;
+  font-size: 23px; }
+
+.bb-p a {
+  margin-left: 288px;
+  color: #009de6;
+  font-size: 12px; }
+
+.xieyi {
+  font-size: 16px;
+  margin-bottom: 50px; }
+
+.xieyi a {
+  text-decoration: underline;
+  color: #009de6; }
+
+.login-btn {
+  display: block;
+  position: relative;
+  font-size: 18px;
+  overflow: hidden;
+  line-height: 42px;
+  height: 42px;
+  width: 380px;
+  background: #009de6;
+  color: white;
+  cursor: pointer; }
+
+.login-btn:hover {
+  background: #61b1ef; }
+
+.res-div {
+  margin: 50px 26px 0 26px;
+  font-size: 16px;
+  color: #969696;
+  text-align: center; }
+
+.res-div a {
+  color: #529bef;
+  margin-left: 3px; }
+
+.res-div a:hover {
+  color: #2786f2; }
+
+.top {
+  height: 91px;
+  width: 100%; }
+
+.top-box {
+  width: 1440px;
+  height: 91px;
+  margin: 0 auto;
+  position: relative; }
+
+.tb-left {
+  width: 160px;
+  height: 40px;
+  overflow: hidden;
+  position: absolute;
+  left: 50px;
+  top: 33px; }
+
+.tb-left img {
+  position: absolute;
+  top: -30px;
+  left: -18px; }
+
+.verify {
+  border: 1px solid #ccc;
+  width: 380px;
+  height: 44px;
+  position: relative;
+  margin-bottom: 13px; }
+
+.v-ipt {
+  height: 23px;
+  line-height: 23px;
+  border: none;
+  color: #333;
+  background: 0 0 !important;
+  position: absolute;
+  padding: 10px 0 10px;
+  top: 0;
+  width: 270px;
+  font-size: 14px;
+  zoom: 1;
+  margin-left: 7px; }
+
+.ver {
+  margin-top: 7px;
+  margin-left: 7px;
+  color: #ccc; }
+
+.verify img {
+  width: 105px;
+  height: 42px;
+  position: absolute;
+  right: 0;
+  top: 1px; }
